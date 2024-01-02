@@ -1,6 +1,6 @@
-# template-service
+# Node.js Child Process Service
 
-Template repo for typescript service
+Service to run child processes
 
 ## Details
 
